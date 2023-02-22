@@ -1,0 +1,19 @@
+body {background-color: #f8eecd;}
+header {
+    font-family: 'Parisienne';
+    color:rgb(220, 86, 76);
+}
+main {
+    font-family: 'Rouge Script';
+}
+p{
+    font-family: 'Bad Script';
+    color:rgb(53, 53, 53)
+
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 85%;
+  }
